@@ -1,0 +1,19 @@
+
+
+
+[
+
+ { "URL": "https://arcelormittal.sharepoint.com/sites/brm-powerplatform/Development/SmartBoardMQTT/", 
+                    "List": "Topic1",
+					"Topic":"smartboard/Topic1",
+					"Parameters": ["lattitude", "longtitude","vehicleID"] },
+	{"URL": "https://arcelormittal.sharepoint.com/sites/brm-powerplatform/Development/SmartBoardMQTT/", 
+                    "List": "Device2",
+					"Topic":"application/3/device/+/event/up",
+					"Parameters": ["object-latitude", "object-longitude","devEUI"] }
+					
+
+
+
+
+]

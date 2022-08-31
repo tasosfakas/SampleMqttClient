@@ -1,0 +1,15 @@
+
+
+
+
+ { "protocol": "tcp", 
+   "broker": "localhost",
+   "port":"3883",
+	"password": "u2ZzM7SJf3iveaemkq4neyQ3",
+    "userName" :  "Hammernik"	}
+					
+
+
+
+
+
