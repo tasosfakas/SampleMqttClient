@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-04T17:07:40.238172900Z</date>
+  <millis>1649092060238</millis>
+  <nanos>172900</nanos>
+  <sequence>5</sequence>
+  <logger>Topic1</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.Sample</class>
+  <method>subscribe</method>
+  <thread>1</thread>
+  <message>Connected to tcp://localhost:3883 with client ID paho618271454626515</message>
+</record>
+<record>
+  <date>2022-04-04T17:07:40.241172400Z</date>
+  <millis>1649092060241</millis>
+  <nanos>172400</nanos>
+  <sequence>6</sequence>
+  <logger>Topic1</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.Sample</class>
+  <method>subscribe</method>
+  <thread>1</thread>
+  <message>Subscribing to topic:  smartboard/Topic1 qos 0</message>
+</record>
+<record>
+  <date>2022-04-04T17:11:38.371226500Z</date>
+  <millis>1649092298371</millis>
+  <nanos>226500</nanos>
+  <sequence>12</sequence>
+  <logger>Topic1</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.Sample</class>
+  <method>messageArrived</method>
+  <thread>16</thread>
+  <message> MEssage arrived : Time:	2022-04-04 19:11:38.37  Topic:	smartboard/Topic1  Message:	{"lattitude":"177387387","longtitude":"8878778","vehicleID":"67676x"}  QoS:	0</message>
+</record>
+<record>
+  <date>2022-04-04T17:11:39.039923800Z</date>
+  <millis>1649092299039</millis>
+  <nanos>923800</nanos>
+  <sequence>13</sequence>
+  <logger>Topic1</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.Sample</class>
+  <method>messageArrived</method>
+  <thread>16</thread>
+  <message>Output: WARNUNG: A newer version of PnP PowerShell is available: 3.29.2101.0. Consider upgrading.</message>
+</record>
+<record>
+  <date>2022-04-04T17:11:43.370834300Z</date>
+  <millis>1649092303370</millis>
+  <nanos>834300</nanos>
+  <sequence>14</sequence>
+  <logger>Topic1</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.Sample</class>
+  <method>messageArrived</method>
+  <thread>16</thread>
+  <message>Output: </message>
+</record>
+<record>
+  <date>2022-04-04T17:11:44.687252700Z</date>
+  <millis>1649092304687</millis>
+  <nanos>252700</nanos>
+  <sequence>15</sequence>
+  <logger>Topic1</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.Sample</class>
+  <method>messageArrived</method>
+  <thread>16</thread>
+  <message>Output: format-default : The collection has not been initialized. It has not been requested or the request has not been </message>
+</record>
+<record>
+  <date>2022-04-04T17:11:44.687252700Z</date>
+  <millis>1649092304687</millis>
+  <nanos>252700</nanos>
+  <sequence>16</sequence>
+  <logger>Topic1</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.Sample</class>
+  <method>messageArrived</method>
+  <thread>16</thread>
+  <message>Output: executed. It may need to be explicitly requested.</message>
+</record>
+<record>
+  <date>2022-04-04T17:11:44.687252700Z</date>
+  <millis>1649092304687</millis>
+  <nanos>252700</nanos>
+  <sequence>17</sequence>
+  <logger>Topic1</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.Sample</class>
+  <method>messageArrived</method>
+  <thread>16</thread>
+  <message>Output:     + CategoryInfo          : NotSpecified: (:) [format-default], CollectionNotInitializedException</message>
+</record>
+<record>
+  <date>2022-04-04T17:11:44.687252700Z</date>
+  <millis>1649092304687</millis>
+  <nanos>252700</nanos>
+  <sequence>18</sequence>
+  <logger>Topic1</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.Sample</class>
+  <method>messageArrived</method>
+  <thread>16</thread>
+  <message>Output:     + FullyQualifiedErrorId : Microsoft.SharePoint.Client.CollectionNotInitializedException,Microsoft.PowerShell.Comma </message>
+</record>
+<record>
+  <date>2022-04-04T17:11:44.702873900Z</date>
+  <millis>1649092304702</millis>
+  <nanos>873900</nanos>
+  <sequence>19</sequence>
+  <logger>Topic1</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.Sample</class>
+  <method>messageArrived</method>
+  <thread>16</thread>
+  <message>Output:    nds.FormatDefaultCommand</message>
+</record>
+<record>
+  <date>2022-04-04T17:11:44.702873900Z</date>
+  <millis>1649092304702</millis>
+  <nanos>873900</nanos>
+  <sequence>20</sequence>
+  <logger>Topic1</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.Sample</class>
+  <method>messageArrived</method>
+  <thread>16</thread>
+  <message>Output:  </message>
+</record>
+<record>
+  <date>2022-04-04T17:12:54.232219800Z</date>
+  <millis>1649092374232</millis>
+  <nanos>219800</nanos>
+  <sequence>21</sequence>
+  <logger>Topic1</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.Sample</class>
+  <method>messageArrived</method>
+  <thread>16</thread>
+  <message> MEssage arrived : Time:	2022-04-04 19:12:54.232  Topic:	smartboard/Topic1  Message:	{"lattitude":"177387387","longtitude":"8878778","vehicleID":"67676c"}  QoS:	0</message>
+</record>
+<record>
+  <date>2022-04-04T17:12:54.833257700Z</date>
+  <millis>1649092374833</millis>
+  <nanos>257700</nanos>
+  <sequence>22</sequence>
+  <logger>Topic1</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.Sample</class>
+  <method>messageArrived</method>
+  <thread>16</thread>
+  <message>Output: WARNUNG: A newer version of PnP PowerShell is available: 3.29.2101.0. Consider upgrading.</message>
+</record>
+<record>
+  <date>2022-04-04T17:12:59.061561Z</date>
+  <millis>1649092379061</millis>
+  <nanos>561000</nanos>
+  <sequence>23</sequence>
+  <logger>Topic1</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.Sample</class>
+  <method>messageArrived</method>
+  <thread>16</thread>
+  <message>Output: </message>
+</record>
+<record>
+  <date>2022-04-04T17:13:00.326942100Z</date>
+  <millis>1649092380326</millis>
+  <nanos>942100</nanos>
+  <sequence>24</sequence>
+  <logger>Topic1</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.Sample</class>
+  <method>messageArrived</method>
+  <thread>16</thread>
+  <message>Output: format-default : The collection has not been initialized. It has not been requested or the request has not been </message>
+</record>
+<record>
+  <date>2022-04-04T17:13:00.326942100Z</date>
+  <millis>1649092380326</millis>
+  <nanos>942100</nanos>
+  <sequence>25</sequence>
+  <logger>Topic1</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.Sample</class>
+  <method>messageArrived</method>
+  <thread>16</thread>
+  <message>Output: executed. It may need to be explicitly requested.</message>
+</record>
+<record>
+  <date>2022-04-04T17:13:00.326942100Z</date>
+  <millis>1649092380326</millis>
+  <nanos>942100</nanos>
+  <sequence>26</sequence>
+  <logger>Topic1</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.Sample</class>
+  <method>messageArrived</method>
+  <thread>16</thread>
+  <message>Output:     + CategoryInfo          : NotSpecified: (:) [format-default], CollectionNotInitializedException</message>
+</record>
+<record>
+  <date>2022-04-04T17:13:00.342568100Z</date>
+  <millis>1649092380342</millis>
+  <nanos>568100</nanos>
+  <sequence>27</sequence>
+  <logger>Topic1</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.Sample</class>
+  <method>messageArrived</method>
+  <thread>16</thread>
+  <message>Output:     + FullyQualifiedErrorId : Microsoft.SharePoint.Client.CollectionNotInitializedException,Microsoft.PowerShell.Comma </message>
+</record>
+<record>
+  <date>2022-04-04T17:13:00.342568100Z</date>
+  <millis>1649092380342</millis>
+  <nanos>568100</nanos>
+  <sequence>28</sequence>
+  <logger>Topic1</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.Sample</class>
+  <method>messageArrived</method>
+  <thread>16</thread>
+  <message>Output:    nds.FormatDefaultCommand</message>
+</record>
+<record>
+  <date>2022-04-04T17:13:00.342568100Z</date>
+  <millis>1649092380342</millis>
+  <nanos>568100</nanos>
+  <sequence>29</sequence>
+  <logger>Topic1</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.Sample</class>
+  <method>messageArrived</method>
+  <thread>16</thread>
+  <message>Output:  </message>
+</record>
+</log>
