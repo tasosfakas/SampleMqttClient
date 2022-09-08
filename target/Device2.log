@@ -2,21 +2,21 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2022-04-04T17:07:40.257173300Z</date>
-  <millis>1649092060257</millis>
-  <nanos>173300</nanos>
+  <date>2022-09-08T14:15:18.164417600Z</date>
+  <millis>1662646518164</millis>
+  <nanos>417600</nanos>
   <sequence>9</sequence>
   <logger>Device2</logger>
   <level>INFO</level>
   <class>com.powerappsBremen.Sample</class>
   <method>subscribe</method>
   <thread>1</thread>
-  <message>Connected to tcp://localhost:3883 with client ID paho618271525053760</message>
+  <message>Connected to tcp://localhost:3883 with client ID paho42668694346332</message>
 </record>
 <record>
-  <date>2022-04-04T17:07:40.259173700Z</date>
-  <millis>1649092060259</millis>
-  <nanos>173700</nanos>
+  <date>2022-09-08T14:15:18.166417600Z</date>
+  <millis>1662646518166</millis>
+  <nanos>417600</nanos>
   <sequence>10</sequence>
   <logger>Device2</logger>
   <level>INFO</level>
@@ -25,4 +25,3 @@
   <thread>1</thread>
   <message>Subscribing to topic:  application/3/device/+/event/up qos 0</message>
 </record>
-</log>

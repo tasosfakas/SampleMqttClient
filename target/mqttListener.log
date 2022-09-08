@@ -98,3 +98,201 @@
   <message>One more instance of listening client has been launched</message>
 </record>
 </log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-09-08T14:12:55.406774700Z</date>
+  <millis>1662646375406</millis>
+  <nanos>774700</nanos>
+  <sequence>0</sequence>
+  <logger>mqttListener</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.mqttListener</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Read broker configuration protocol: "tcp" broker :"localhost" port: "3883"</message>
+</record>
+<record>
+  <date>2022-09-08T14:12:55.502774600Z</date>
+  <millis>1662646375502</millis>
+  <nanos>774600</nanos>
+  <sequence>1</sequence>
+  <logger>mqttListener</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.mqttListener</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>URL to connect: tcp://localhost:3883</message>
+</record>
+<record>
+  <date>2022-09-08T14:12:55.515776800Z</date>
+  <millis>1662646375515</millis>
+  <nanos>776800</nanos>
+  <sequence>2</sequence>
+  <logger>mqttListener</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.mqttListener</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Connection [URL=https://arcelormittal.sharepoint.com/sites/brm-powerplatform/Development/SmartBoardMQTT/, Topic=smartboard/Topic1, List=Topic1, Parameters=[lattitude, longtitude, vehicleID]]</message>
+</record>
+<record>
+  <date>2022-09-08T14:12:55.516775900Z</date>
+  <millis>1662646375516</millis>
+  <nanos>775900</nanos>
+  <sequence>3</sequence>
+  <logger>mqttListener</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.mqttListener</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Connection [URL=https://arcelormittal.sharepoint.com/sites/brm-powerplatform/Development/SmartBoardMQTT/, Topic=application/3/device/+/event/up, List=Device2, Parameters=[object-latitude, object-longitude, devEUI]]</message>
+</record>
+<record>
+  <date>2022-09-08T14:12:55.596780900Z</date>
+  <millis>1662646375596</millis>
+  <nanos>780900</nanos>
+  <sequence>4</sequence>
+  <logger>mqttListener</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.mqttListener</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>One more instance of listening client is about to be launched</message>
+</record>
+<record>
+  <date>2022-09-08T14:12:55.660784100Z</date>
+  <millis>1662646375660</millis>
+  <nanos>784100</nanos>
+  <sequence>7</sequence>
+  <logger>mqttListener</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.mqttListener</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>One more instance of listening client has been launched</message>
+</record>
+<record>
+  <date>2022-09-08T14:12:55.669789900Z</date>
+  <millis>1662646375669</millis>
+  <nanos>789900</nanos>
+  <sequence>8</sequence>
+  <logger>mqttListener</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.mqttListener</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>One more instance of listening client is about to be launched</message>
+</record>
+<record>
+  <date>2022-09-08T14:12:55.680792100Z</date>
+  <millis>1662646375680</millis>
+  <nanos>792100</nanos>
+  <sequence>11</sequence>
+  <logger>mqttListener</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.mqttListener</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>One more instance of listening client has been launched</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-09-08T14:15:17.957404200Z</date>
+  <millis>1662646517957</millis>
+  <nanos>404200</nanos>
+  <sequence>0</sequence>
+  <logger>mqttListener</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.mqttListener</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Read broker configuration protocol: "tcp" broker :"localhost" port: "3883"</message>
+</record>
+<record>
+  <date>2022-09-08T14:15:18.009407600Z</date>
+  <millis>1662646518009</millis>
+  <nanos>407600</nanos>
+  <sequence>1</sequence>
+  <logger>mqttListener</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.mqttListener</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>URL to connect: tcp://localhost:3883</message>
+</record>
+<record>
+  <date>2022-09-08T14:15:18.020408600Z</date>
+  <millis>1662646518020</millis>
+  <nanos>408600</nanos>
+  <sequence>2</sequence>
+  <logger>mqttListener</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.mqttListener</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Connection [URL=https://arcelormittal.sharepoint.com/sites/brm-powerplatform/Development/SmartBoardMQTT/, Topic=smartboard/Topic1, List=Topic1, Parameters=[lattitude, longtitude, vehicleID]]</message>
+</record>
+<record>
+  <date>2022-09-08T14:15:18.021413700Z</date>
+  <millis>1662646518021</millis>
+  <nanos>413700</nanos>
+  <sequence>3</sequence>
+  <logger>mqttListener</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.mqttListener</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Connection [URL=https://arcelormittal.sharepoint.com/sites/brm-powerplatform/Development/SmartBoardMQTT/, Topic=application/3/device/+/event/up, List=Device2, Parameters=[object-latitude, object-longitude, devEUI]]</message>
+</record>
+<record>
+  <date>2022-09-08T14:15:18.081412700Z</date>
+  <millis>1662646518081</millis>
+  <nanos>412700</nanos>
+  <sequence>4</sequence>
+  <logger>mqttListener</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.mqttListener</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>One more instance of listening client is about to be launched</message>
+</record>
+<record>
+  <date>2022-09-08T14:15:18.142422300Z</date>
+  <millis>1662646518142</millis>
+  <nanos>422300</nanos>
+  <sequence>7</sequence>
+  <logger>mqttListener</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.mqttListener</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>One more instance of listening client has been launched</message>
+</record>
+<record>
+  <date>2022-09-08T14:15:18.154417Z</date>
+  <millis>1662646518154</millis>
+  <nanos>417000</nanos>
+  <sequence>8</sequence>
+  <logger>mqttListener</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.mqttListener</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>One more instance of listening client is about to be launched</message>
+</record>
+<record>
+  <date>2022-09-08T14:15:18.168416700Z</date>
+  <millis>1662646518168</millis>
+  <nanos>416700</nanos>
+  <sequence>11</sequence>
+  <logger>mqttListener</logger>
+  <level>INFO</level>
+  <class>com.powerappsBremen.mqttListener</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>One more instance of listening client has been launched</message>
+</record>
